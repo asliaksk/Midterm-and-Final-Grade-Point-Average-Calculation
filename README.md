@@ -1,1 +1,1 @@
-# Vize-ve-Final-Not-Ortalamas-Hesaplama
+# Vize-ve-Final-Not-Ortalaması-Hesaplama
